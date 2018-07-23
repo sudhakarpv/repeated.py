@@ -1,6 +1,7 @@
 # repeated.py
 def main():
     pass
+    inp=input()
     n=list(map(int,input().split()))
     list_2=[]
 
